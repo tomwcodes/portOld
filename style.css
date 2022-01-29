@@ -574,15 +574,15 @@ div label[for=ui-component-toggle__yearly] {
 #ui-component-toggle__yearly:checked ~ div
 .ui-component-card--pricing-amount-1::before { content: "£28"; }
 
-.ui-component-card--pricing-amount-2::before { content: "£60"; }
+.ui-component-card--pricing-amount-2::before { content: "£50"; }
 
 #ui-component-toggle__yearly:checked ~ div
-.ui-component-card--pricing-amount-2::before { content: "£42"; }
+.ui-component-card--pricing-amount-2::before { content: "£35"; }
 
-.ui-component-card--pricing-amount-3::before { content: "£80"; }
+.ui-component-card--pricing-amount-3::before { content: "£60"; }
 
 #ui-component-toggle__yearly:checked ~ div
-.ui-component-card--pricing-amount-3::before { content: "£66"; }
+.ui-component-card--pricing-amount-3::before { content: "£42"; }
 
 /* LIST */
 
