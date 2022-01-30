@@ -612,7 +612,7 @@ div label[for=ui-component-toggle__yearly] {
 
 .ui-section-faq--answer { padding-left: 1.875rem; }
 
-.ui-section-faq--note { text-align: center; }
+.ui-section-faq-note { text-align: center; }
 
 /*--------------------------------------------------------------
 |
@@ -996,7 +996,9 @@ div label[for=ui-component-toggle__yearly] {
   TYPOGRAPHY
   ------------------------------------------------------------*/
 
-  .ui-text-intro { font-size: var(--ui-typography-h4); }
+  .ui-text-intro { 
+    font-size: var(--ui-typography-h4);
+ }
 
   /*------------------------------------------------------------
   LAYOUT
