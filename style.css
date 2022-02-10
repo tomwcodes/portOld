@@ -57,7 +57,7 @@ TABLE OF CONTENT
 
   /* BACKGROUND COLOR */
   
-  --ui-color-background-primary  : var(--ui-color-n-000);
+  --ui-color-background-primary  : rgb(252,252,252);
   --ui-color-background-secondary: var(--ui-color-n-050);
   --ui-color-background-tertiary : var(--ui-color-n-100);
 
@@ -368,6 +368,10 @@ div label[for=ui-component-toggle__yearly] {
 | 7.1 HEADER
 |
 --------------------------------------------------------------*/
+
+.tw-logo{
+  margin: 0;
+}
 
 .ui-section-header {
   padding-bottom: 1.25rem;
