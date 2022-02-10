@@ -804,7 +804,7 @@ div label[for=ui-component-toggle__yearly] {
   |
   ------------------------------------------------------------*/
 
-  .ui-section-hero { text-align: left; }
+  .ui-section-hero { text-align: center; }
 
   .ui-section-hero .ui-component-cta { align-items: start; }
 
